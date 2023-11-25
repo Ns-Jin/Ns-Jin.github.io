@@ -1,5 +1,9 @@
 # Simple Github Blog Templates
 
+## My Blog Link
+
+- [My Blog](https://ns-jin.github.io/)
+
 ## Ref.
 
 - [Github Blog](https://pages.github.com/)
